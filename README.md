@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Configuración de Entorno de Desarrollo para React.js
+
+Instalación de Dependencias
+Creación de App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
